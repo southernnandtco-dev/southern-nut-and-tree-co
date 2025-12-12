@@ -1,0 +1,178 @@
+{
+  "company": "Southern Nut & Tree Co.",
+  "year": 2025,
+  "products": [
+    {
+      "name": "Black Walnuts (Wild-Harvested)",
+      "pricing": [
+        [
+          "Retail (in-shell)",
+          "$10-$14 / lb"
+        ],
+        [
+          "Wholesale 10-49 lb",
+          "$7.00 / lb"
+        ],
+        [
+          "Bulk 50-200 lb",
+          "$5.50 / lb"
+        ],
+        [
+          "Large buyers 200+ lb",
+          "$4.50 / lb"
+        ],
+        [
+          "Shelled kernels (retail)",
+          "$22-$30 / lb"
+        ],
+        [
+          "Shelled kernels (wholesale)",
+          "$18-$20 / lb"
+        ]
+      ],
+      "notes": [
+        "Ground shell: fine (40 mesh), medium (20 mesh), coarse (8-12 mesh)",
+        "Hull powder: 30-40 mesh (cosmetic/dye grade)",
+        "Storage: cool, dry, sealed bags"
+      ]
+    },
+    {
+      "name": "Black Walnut Hulls (Whole & Ground)",
+      "pricing": [
+        [
+          "4 oz bag",
+          "$6.00"
+        ],
+        [
+          "1 lb bag",
+          "$18.00"
+        ],
+        [
+          "Whole hulls (retail)",
+          "$12 / lb"
+        ],
+        [
+          "Whole hulls (wholesale)",
+          "$8 / lb"
+        ],
+        [
+          "Ground hull powder (retail)",
+          "$18 / lb"
+        ],
+        [
+          "Ground hull powder (wholesale)",
+          "$14 / lb"
+        ]
+      ],
+      "notes": [
+        "Fine grade (30-40 mesh) suitable for tinctures and cosmetics",
+        "Moisture target: 8-12%"
+      ]
+    },
+    {
+      "name": "Walnut Hull Extract / Concentrate",
+      "pricing": [
+        [
+          "4 oz bottle",
+          "$16"
+        ],
+        [
+          "8 oz bottle",
+          "$28"
+        ],
+        [
+          "Pint (16 oz)",
+          "$52"
+        ],
+        [
+          "Bulk concentrate",
+          "Available by quart or gallon - contact for quote"
+        ]
+      ],
+      "notes": [
+        "Usage: natural dyes, leather staining, herbal extracts, wood finishing, ink making",
+        "Store cool, dark; shelf-stable if sealed"
+      ]
+    },
+    {
+      "name": "Black Walnut Shells (Abrasive & Bedding)",
+      "pricing": [
+        [
+          "1 lb bag",
+          "$4.00"
+        ],
+        [
+          "5 lb bag",
+          "$20.00"
+        ],
+        [
+          "Bulk (50 lb+)",
+          "$2.25 - $2.75 / lb"
+        ]
+      ],
+      "notes": [
+        "Grind sizes: fine, medium, coarse",
+        "Industrial blasting grades available on request"
+      ]
+    },
+    {
+      "name": "Mockernut Hickory Nuts",
+      "pricing": [
+        [
+          "In-shell",
+          "$12 / lb"
+        ],
+        [
+          "Cracked",
+          "$10 / lb - wholesale $8 / lb"
+        ],
+        [
+          "Roasted small-batch",
+          "Contact for availability"
+        ]
+      ],
+      "notes": [
+        "Seasonal availability",
+        "Best-by: 12 months if stored sealed"
+      ]
+    },
+    {
+      "name": "Hickory & Pecan Shell Chips (Smoking / Mulch / Craft)",
+      "pricing": [
+        [
+          "Hickory smoking chips",
+          "$1.75 - $2.50 / lb"
+        ],
+        [
+          "Pecan smoking chips",
+          "$1.50 - $2.25 / lb"
+        ]
+      ],
+      "notes": [
+        "Packaged in breathable bags for shipping",
+        "Ideal for BBQ smoking and garden mulch"
+      ]
+    },
+    {
+      "name": "Stewart Pecans",
+      "pricing": [
+        [
+          "In-shell",
+          "$6 - $8 / lb retail"
+        ],
+        [
+          "Shelled halves",
+          "$14 - $18 / lb retail"
+        ],
+        [
+          "Shelled halves wholesale",
+          "$11 - $12 / lb"
+        ]
+      ],
+      "notes": [
+        "Large, meaty halves when available",
+        "Keep cool and dry"
+      ]
+    }
+  ]
+}

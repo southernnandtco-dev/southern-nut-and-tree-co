@@ -1,0 +1,13 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#fbf9f6;color:#222;margin:0}
+.site-header{background:#2b2321;color:#f5e6d6;padding:28px 0;text-align:center}
+.site-header .inner{max-width:1100px;margin:0 auto}
+.logo{max-height:100px;margin-bottom:6px}
+.site-header h1{margin:0;font-size:28px;letter-spacing:0.5px}
+.tag{margin-top:6px;font-weight:600;color:#e8d9c8}
+.container{max-width:1000px;margin:24px auto;padding:0 18px}
+h2{color:#2b2321}
+ul{line-height:1.45}
+.btn{background:#2b2321;color:#fff;padding:10px 14px;border-radius:6px;border:none;cursor:pointer}
+footer{margin-top:36px;padding:12px 0;text-align:center;color:#666;font-size:14px}
+input,textarea{font-family:inherit;padding:8px;border:1px solid #ddd;border-radius:4px}
+a{color:#6b4b36}
